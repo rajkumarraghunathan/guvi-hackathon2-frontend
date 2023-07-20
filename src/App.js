@@ -10,7 +10,7 @@ import ForgotPassword from './Component/ForgetPassword';
 import ResetPasswordForm from './Component/ResetPassword';
 import AdminPage from './Component/AdminPage';
 import AdminHomePage from './Component/AdminHomePage';
-import PaymentForm from './Component/Payement/PayementForm';
+
 
 
 

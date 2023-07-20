@@ -36,7 +36,7 @@ const PaymentForm = (props) => {
                 name: 'Equipment Rental Shop',
                 description: 'Product Description',
                 handler: function (response) {
-
+                    console.log(orderId);
                     console.log(response);
                 },
                 prefill: {

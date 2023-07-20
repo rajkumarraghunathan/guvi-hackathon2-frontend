@@ -11,7 +11,7 @@ const AdminPage = () => {
 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-    const [role, setRole] = useState('Admin');
+    const role = 'Admin';
     const [name, setName] = useState('');
 
     const navigate = useNavigate();
